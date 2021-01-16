@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/enye/static/css/main.fdb0e32b.chunk.css",
+    "main.js": "/enye/static/js/main.042da39b.chunk.js",
+    "main.js.map": "/enye/static/js/main.042da39b.chunk.js.map",
+    "runtime-main.js": "/enye/static/js/runtime-main.db4f36cf.js",
+    "runtime-main.js.map": "/enye/static/js/runtime-main.db4f36cf.js.map",
+    "static/js/2.f3171352.chunk.js": "/enye/static/js/2.f3171352.chunk.js",
+    "static/js/2.f3171352.chunk.js.map": "/enye/static/js/2.f3171352.chunk.js.map",
+    "static/js/3.18163047.chunk.js": "/enye/static/js/3.18163047.chunk.js",
+    "static/js/3.18163047.chunk.js.map": "/enye/static/js/3.18163047.chunk.js.map",
+    "index.html": "/enye/index.html",
+    "static/css/main.fdb0e32b.chunk.css.map": "/enye/static/css/main.fdb0e32b.chunk.css.map",
+    "static/js/2.f3171352.chunk.js.LICENSE.txt": "/enye/static/js/2.f3171352.chunk.js.LICENSE.txt",
+    "static/media/female.a178d7cd.png": "/enye/static/media/female.a178d7cd.png",
+    "static/media/jcb.f4a8ae47.png": "/enye/static/media/jcb.f4a8ae47.png",
+    "static/media/male.00d92f05.png": "/enye/static/media/male.00d92f05.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db4f36cf.js",
+    "static/js/2.f3171352.chunk.js",
+    "static/css/main.fdb0e32b.chunk.css",
+    "static/js/main.042da39b.chunk.js"
+  ]
+}
